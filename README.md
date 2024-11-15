@@ -1,4 +1,4 @@
-# Kaitlyn Knudsen
+# <p align="center">Kaitlyn Knudsen</p>
 
 ## Contact Information <br/>
 <b>Email:</b> castlek76@gmail.com <br/>
@@ -36,7 +36,8 @@ Norway | Greece | Explore
 Hawaii | Argentina | It
 Costa Rica | Maine | All
 
-<img src="" width="50"
+<p align="center"><img alt="Kaitlyn Knudsen1" width="300px" src="images/IMG_0057.JPG"/> <img alt="Kaitlyn Knudsen1" width="300px" src="images/IMG_1357.JPG"/> <img alt="Kaitlyn Knudsen1" width="300px" src="images/IMG_0317 2.JPG"/></p>
+
 
 <!--
 **castlek76/castlek76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
