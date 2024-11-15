@@ -36,7 +36,7 @@ Norway | Greece | Explore
 Hawaii | Argentina | It
 Costa Rica | Maine | All
 
-<img alt="Kaitlyn Knudsen" width="50px" src=" />
+<img src="" width="50"
 
 <!--
 **castlek76/castlek76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
